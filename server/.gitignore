@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Environment variables / secrets
+.env
+*.env
+secrets.json
+config.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# PyCharm files
+.idea/
+*.iml
+
+# Pip dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MyPy type checking
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+*.cover
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# pytest cache
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore Jupyter Notebook output
+*.ipynb_checkpoints/
